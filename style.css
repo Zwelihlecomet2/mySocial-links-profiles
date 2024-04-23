@@ -19,10 +19,11 @@ body{
 }
 
 .container .container-content{
-    height: 86%;
+    height: 87%;
     width: 80%;
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;
+    padding: 10px;
 }
 
 .container-content img{
@@ -41,7 +42,6 @@ body{
 .profile-user h3{
     margin-top: 10px;
     font-size: 1.6rem;
-    font-weight: 700;
 }
 
  .profile-user #first-child{
@@ -54,8 +54,6 @@ body{
 .profile-user p{
     margin-top: 20px;
     padding: 0px 0px;
-    /* font-size: 1.1rem; */
-    font-size: 800;
 } 
 
 .container-content .social-links a{

@@ -7,3 +7,20 @@
         padding: 10px;
     }
 } */
+
+@media (min-width: 600px){
+    .container .container-content{
+    height: 75%;
+    width: 25%;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 20px;
+    }
+
+    .container-content img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        margin-left: 36%;
+        margin-top: 2%;
+    }
+}
