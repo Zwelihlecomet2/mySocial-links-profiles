@@ -10,7 +10,7 @@
 
 @media (min-width: 600px){
     .container .container-content{
-    height: 75%;
+    height: 70%;
     width: 25%;
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;

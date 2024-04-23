@@ -19,7 +19,7 @@ body{
 }
 
 .container .container-content{
-    height: 87%;
+    height: 80%;
     width: 80%;
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;
